@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Group7_Assignment2_NHL/1.0.0": {
+        "runtime": {
+          "Group7_Assignment2_NHL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Group7_Assignment2_NHL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
