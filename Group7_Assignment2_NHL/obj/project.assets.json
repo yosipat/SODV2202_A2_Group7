@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yosip\\Desktop\\SODV2202\\Group7_Assignment2_NHL\\Group7_Assignment2_NHL.csproj",
+      "projectUniqueName": "C:\\Users\\Yosip\\Documents\\GitHub\\SODV2202_A2_Group7\\Group7_Assignment2_NHL\\Group7_Assignment2_NHL.csproj",
       "projectName": "Group7_Assignment2_NHL",
-      "projectPath": "C:\\Users\\Yosip\\Desktop\\SODV2202\\Group7_Assignment2_NHL\\Group7_Assignment2_NHL.csproj",
+      "projectPath": "C:\\Users\\Yosip\\Documents\\GitHub\\SODV2202_A2_Group7\\Group7_Assignment2_NHL\\Group7_Assignment2_NHL.csproj",
       "packagesPath": "C:\\Users\\Yosip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yosip\\Desktop\\SODV2202\\Group7_Assignment2_NHL\\obj\\",
+      "outputPath": "C:\\Users\\Yosip\\Documents\\GitHub\\SODV2202_A2_Group7\\Group7_Assignment2_NHL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
